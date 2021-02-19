@@ -1,0 +1,147 @@
+header {
+  background-image: url("../../assets/img/Image 3.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: grid;
+}
+
+.header-container {
+  display: flex;
+  justify-content: center;
+}
+
+.header-container nav {
+  width: 95vw;
+  margin-top: 1vw;
+  border-radius: 10px;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header-container nav img {
+  width: 9vw;
+}
+
+.nav-menu-container li {
+  list-style: none;
+  display: inline;
+}
+
+.nav-menu-container li a {
+  text-decoration: none;
+  color: gray;
+  padding: .8vw;
+  font-size: 1.1vw;
+  font-weight: bold;
+}
+
+.nav-menu-container li:nth-child(7) {
+  padding: .3vw;
+  background-color: #f16136;
+  border-radius: 2vw;
+  border: none;
+}
+
+#reservation {
+  color: white;
+}
+
+.header-info-container {
+  max-width: 20vw;
+  background-color: white;
+  padding: .5vw;
+  margin-top: 6vw;
+  margin-right: 30vw;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  justify-self: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.info-img-container {
+  border-bottom: .3vw solid #e1dfdf;
+  padding-bottom: 1.5vw;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.info-img-container figure {
+  text-align: center;
+  color: gray;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.info-img-container figure img {
+  width: 10vw;
+}
+
+.header-info-container h3 {
+  text-align: center;
+  font-size: 1.2vw;
+  font-weight: bold;
+  color: #403f3f;
+  padding: 1vw;
+}
+
+.header-info-container a {
+  list-style: none;
+  text-decoration: none;
+  font-size: 1.1vw;
+  font-weight: bold;
+  border-radius: 20px;
+  border: none;
+  padding: .5vw 4vw .5vw 4vw;
+  margin: .5vw;
+}
+
+#reservationNow {
+  background-color: #f16136;
+  color: white;
+}
+#meetHotel {
+  background-color: #fff;
+  border: .2vw solid #D5D5D5;
+  color: #9A9A9A;
+}
+
+.sponsors-container {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: repeat(2, auto);
+}
+
+.sponsors-container img {
+  padding: 1vw;
+  border: .2vw solid #d7d0d0;
+  border-radius: 10px;
+  height: 11vh;
+  width: 7vw;
+  margin: .2vw;
+}
+
+.roll-page-container {
+  color: white;
+  font-size: 1.2vw;
+  display: flex;
+  font-weight: bold;
+  text-align: center;
+  justify-self: flex-end;
+  align-items: center;
+  justify-content: center;
+  padding: 1vw;
+  list-style: none;
+  text-decoration: none;
+  margin-right: 10vw;
+}
+
+.roll-page-container i {
+  font-size: 2vw;
+  margin: .5vw;
+}
