@@ -9,7 +9,6 @@ Um simples website que foi utilizado como processo seletivo para uma vaga de est
 
 #### :wrench: Techs utilizadas:
 * _HTML_
-* _JS_
 * _CSS_
 
 ### :bulb: Tela da aplicação
