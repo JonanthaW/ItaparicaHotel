@@ -13,5 +13,5 @@ Um simples website que foi utilizado como processo seletivo para uma vaga de est
 
 ### :bulb: Tela da aplicação
 
-![image](https://github.com/JonanthaW/Projeto-ItaparicaHotel/blob/main/assets/example01.jpg)
-![image](https://github.com/JonanthaW/Projeto-ItaparicaHotel/blob/main/assets//example02.jpg)
+![image](https://github.com/JonanthaW/ItaparicaHotel/blob/main/assets/example01.jpg)
+![image](https://github.com/JonanthaW/ItaparicaHotel/blob/main/assets//example02.jpg)
