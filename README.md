@@ -15,3 +15,9 @@ Um simples website que foi utilizado como processo seletivo para uma vaga de est
 
 ![image](https://github.com/JonanthaW/ItaparicaHotel/blob/main/assets/example01.jpg)
 ![image](https://github.com/JonanthaW/ItaparicaHotel/blob/main/assets//example02.jpg)
+
+### :computer: Baixando o conteúdo:
+
+```bash
+$ git clone https://github.com/JonanthaW/Arduino-Projects.git
+```
